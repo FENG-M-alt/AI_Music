@@ -1,16 +1,16 @@
 # AI Music
 ## 配方
-#### 《summer》
+#### 《[Summer](Summer.mp3)》
     Prog-House with J-Pop influences, The track features a bright, supersaw synth lead playing a syncopated melody, supported by a thick, sidechained synth bass, A high-pitched, processed female vocal chop acts as a melodic hook throughout, The percussion consists of a crisp snare on the backbeat, a punchy kick drum, and rapid-fire hi-hat rolls, Arpeggiated chiptune-style synths provide high-frequency texture, The arrangement utilizes frequent filter sweeps and riser effects to build tension before drops, Tempo is 128 BPM in the key of E Major
-#### 《snow》
+#### 《[Snow](Snow.mp3)》
     Future Bass with J-Pop influences, A bright, arpeggiated synth lead plays a rapid sixteenth-note pattern over a sidechained synth pad, The percussion features a crisp snare on beats 2 and 4, a syncopated kick drum, and rapid hi-hat rolls, A sub-bass follows the kick pattern, In the chorus sections, the arrangement thickens with layered supersaw chords and a melodic synth lead, The tempo is 160 BPM in the key of F# Major, The track utilizes frequent filter sweeps and riser effects to build tension before drops
-#### 《Dream》
+#### 《[Dream](Dream.mp3)》
     Future Bass with heavy trap influences, The track features a prominent supersaw synth playing syncopated, sidechained chords, A bright, plucked synth melody provides a counter-rhythm, The percussion consists of a punchy kick, crisp snare, and rapid-fire hi-hat rolls, A deep sub-bass follows the kick pattern, Vocal chops are used as a melodic element, heavily processed with pitch-shifting and formant filtering, The arrangement includes a build-up with a rising synth pitch and a snare roll leading into a drop characterized by wide, modulated synth stabs, Key of F# Major, 150 BPM
-#### 《Joyful》
+#### 《[Joyful](Joyful.mp3)》
     Future Bass with heavy EDM and Trap influences, The track features a prominent supersaw synth playing syncopated, sidechained chords that create a rhythmic pumping effect, A deep sub-bass follows the chord progression, while a trap-style drum kit provides the rhythm with a crisp snare on the backbeat and rapid hi-hat rolls, A bright, arpeggiated lead synth melody sits on top of the mix, The arrangement includes dynamic builds with rising white noise sweeps and snare rolls leading into drops where the supersaw chords become more intense, The tempo is 160 BPM in the key of F Major
-#### 《weapons》
+#### 《[Weapons](Weapons.mp3)》
     Indie pop with alternative R&B influences, Clean electric guitar plays syncopated, palm-muted rhythmic patterns and occasional melodic flourishes, A sub-heavy synth bass follows the kick drum pattern, The drum kit features a tight, dry snare and a prominent kick with a modern pop mix, Male vocals alternate between a breathy chest voice and a clear falsetto, utilizing subtle pitch correction and light reverb, The arrangement includes atmospheric synth pads and occasional percussive accents, Key of G major, 105 BPM
-#### 《Anybody Else But You》
+#### 《[Anybody Else But You](Anybody_Else_But_You.mp3)》
     Indie pop with a driving, syncopated rhythm, Clean electric guitar plays a rhythmic, palm-muted pattern in the verses, transitioning to open, strummed chords in the chorus, A melodic bass guitar line follows the kick drum pattern closely, The drums feature a tight snare and a consistent eighth-note hi-hat pattern, Male vocals are delivered in a mid-range tenor, shifting to a breathy falsetto during the pre-chorus and chorus, A bright, polyphonic synthesizer pad provides harmonic texture in the background, The tempo is 118 BPM in the key of G major
 # 免责声明
 * 纯属整活
