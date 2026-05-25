@@ -12,6 +12,8 @@
     Indie pop with alternative R&B influences, Clean electric guitar plays syncopated, palm-muted rhythmic patterns and occasional melodic flourishes, A sub-heavy synth bass follows the kick drum pattern, The drum kit features a tight, dry snare and a prominent kick with a modern pop mix, Male vocals alternate between a breathy chest voice and a clear falsetto, utilizing subtle pitch correction and light reverb, The arrangement includes atmospheric synth pads and occasional percussive accents, Key of G major, 105 BPM
 #### 《[Anybody Else But You](Anybody_Else_But_You.mp3)》
     Indie pop with a driving, syncopated rhythm, Clean electric guitar plays a rhythmic, palm-muted pattern in the verses, transitioning to open, strummed chords in the chorus, A melodic bass guitar line follows the kick drum pattern closely, The drums feature a tight snare and a consistent eighth-note hi-hat pattern, Male vocals are delivered in a mid-range tenor, shifting to a breathy falsetto during the pre-chorus and chorus, A bright, polyphonic synthesizer pad provides harmonic texture in the background, The tempo is 118 BPM in the key of G major
+### 《[Together](Together.mp3)》
+    Modern pop-rock with electronic elements, Features a clean, palm-muted electric guitar riff playing syncopated eighth notes, a driving four-on-the-floor kick drum, and a punchy snare, A distorted synth bass follows the kick pattern, Male vocals alternate between a breathy chest voice and a soaring falsetto, The chorus introduces layered vocal harmonies and bright, sustained synth pads, A high-frequency synth lead plays a repetitive melodic hook during the post-chorus, The tempo is 124 BPM in the key of G major
 # 免责声明
 * 纯属整活
 * AI工具：[suno](https://suno.com/)
